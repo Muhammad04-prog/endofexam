@@ -10,6 +10,6 @@
 
 👨‍💻 Муаллиф
 
-Ном: [Muhammad Mustafo]
-GitHub: [Muhammad04-prog]
+Ном: [Muhammad Mustafo]<br>
+GitHub: [Muhammad04-prog]<br>
 Email: [muhammdrahmatsho@gmail.com]
